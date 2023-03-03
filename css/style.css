@@ -688,6 +688,7 @@ a {
 
   .header-title__text {
     height: 60vh;
+    width: 100%;
   }
 
   .header-title__h1 {
