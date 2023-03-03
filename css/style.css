@@ -112,6 +112,7 @@ a {
 }
 
 .header-title__text {
+  width: 450px;
   max-width: 450px;
   height: 270px;
   background: var(--main-color);
